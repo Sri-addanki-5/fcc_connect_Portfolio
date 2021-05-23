@@ -19,8 +19,8 @@ Tesing Tools: JEST
 Code Versioning Systems : Git and GitHub
 
 ### Sprint 1: Learnings
-  1. Learned about the SCRUM methodology and various attributes and aspects in SCRUM.
-  2. Later, we worked on basics of these MERN technologies
-  3. Further, we worked on basics of these MERN technologies
-  4. In addition to that, we have learnt how to create user stories along with creation of branches in the GitHub Website.
-  5. Also, we have worked on the MERN and created a simple Signin page which takes the deatails from the user and stores it in the database.
+In first sprint we have learned about the SCRUM methodology and various attibutes and aspects in SCRUM. Later, we decided on what technologies we had to use to implement this Web application. Moreover, we have decided to work on MERN technolgies. Further, we worked on basics of these MERN technologies. In addition to that, we have learnt how to create user stories along with creation of branches in the GitHub Website. Also, we have worked on the MERN and created a simple Signin page which takes the details from the user and stores it in the database..
+
+### Sprint 2: Learnings
+In the second sprint we started working on a User story to implement the “SignIn/SignUp/SignOut” page for farmer and customer. We have created the fronted i.e. UI using the React JS. later used Express, Node to create a backend and we were using MongoDB as a database to store the data from the user. The user should give his First Name, Last Name, Email Address, Password to signup to the web application in order to see his profile. We tried to implement the Google Authentication also but we have faced issues related to the database, so we worked on the traditional way of signing up process. Later, we have created the Signin page where the user can give his details like Email Address and Password to get access to his account. Morever, after signing in he can also sign out from the website using the sign out option
+  
