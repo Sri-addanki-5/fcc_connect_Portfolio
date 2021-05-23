@@ -6,3 +6,21 @@ The Farmer Customer Connect is an web application built using React JS, Mongo DB
 
 ### Problems faced by farmer's and customer's
 Many Farmer's are ending up in losses because they are unable to find a better price for their product at the regional market. The interference of the middle men is no of the major problem the farmer's facing now a days. The similar applies to the customer too, due to the interference of the middle men the customer's end up buying various products for too much price. To eradicate this problem we are working on this 'Farmer Customer Connect" web application.
+
+
+### Technologies Used
+
+Frontend : React JS
+
+Backend : Node JS, Express JS and Mongo DB
+
+Tesing Tools: JEST
+
+Code Versioning Systems : Git and GitHub
+
+### Sprint 1: Learnings
+  1. Learned about the SCRUM methodology and various attributes and aspects in SCRUM.
+  2. Later, we worked on basics of these MERN technologies
+  3. Further, we worked on basics of these MERN technologies
+  4. In addition to that, we have learnt how to create user stories along with creation of branches in the GitHub Website.
+  5. Also, we have worked on the MERN and created a simple Signin page which takes the deatails from the user and stores it in the database.
