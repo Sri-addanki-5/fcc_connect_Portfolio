@@ -31,13 +31,13 @@ Code Versioning Systems : Git and GitHub
 8.Developed a basic Signin/Signup page using MERN
 
 ### Sprint 2: Learnings
-1.Started implementing the User story 1 which is to create a Sign-in/Sign Out page for farmer and customer
-2.Created the User Interface using React JS
-3.Created a database in MongoDB and connected UI and Database using Express and Node
-4.For Sign up process the user must specify his/her First name, Last name, E-mail Address, Password to login to the Web application
-5.Tried to implement the Google Authentication for Sign-in/Sign-up but faced many errors and issues while connecting it to the database
-6.So, implemented tradtional sign-in method
-7.After Sign-in we implemented the Sign-Out process for the user to sign out of the application
+* Started implementing the User story 1 which is to create a Sign-in/Sign Out page for farmer and customer
+* Created the User Interface using React JS
+* Created a database in MongoDB and connected UI and Database using Express and Node
+* For Sign up process the user must specify his/her First name, Last name, E-mail Address, Password to login to the Web application
+* Tried to implement the Google Authentication for Sign-in/Sign-up but faced many errors and issues while connecting it to the database
+* So, implemented tradtional sign-in method
+* After Sign-in we implemented the Sign-Out process for the user to sign out of the application
 
 ### Sprint 3: Learnings
 1.Completed the basic Sign-in/Sign-up/Sign-out process
