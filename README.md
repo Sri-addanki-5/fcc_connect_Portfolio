@@ -19,16 +19,16 @@ Tesing Tools: JEST
 Code Versioning Systems : Git and GitHub
 
 ### Sprint 1: Learnings
-1.Learned about the SCRUM methodology
+*Learned about the SCRUM methodology
 
-2.Learned various attributes and aspects of SCRUM
+*Learned various attributes and aspects of SCRUM
 
-3.Decided on what technologies are needed to develop the Web Application
-4.Finalised MERN technologies
-5.Worked on the basics of MERN technologies
-6.Learned how to create the User stories and branches in GitHub
-7.Also learned how to write Acceptance criteria for a user Story
-8.Developed a basic Signin/Signup page using MERN
+* Decided on what technologies are needed to develop the Web Application
+* Finalised MERN technologies
+* Worked on the basics of MERN technologies
+* Learned how to create the User stories and branches in GitHub
+* Also learned how to write Acceptance criteria for a user Story
+* Developed a basic Signin/Signup page using MERN
 
 ### Sprint 2: Learnings
 * Started implementing the User story 1 which is to create a Sign-in/Sign Out page for farmer and customer
@@ -40,15 +40,15 @@ Code Versioning Systems : Git and GitHub
 * After Sign-in we implemented the Sign-Out process for the user to sign out of the application
 
 ### Sprint 3: Learnings
-1.Completed the basic Sign-in/Sign-up/Sign-out process
-2.Integrated the Sign-in/Sign-up/Sign-out pages and connected with the Home page
-3.Implemented the JWT system to the Sign-in/Sign-up/Sign-out process
-4.Looked at the basics of JEST test methods to test the application
-5.Updated the acceptance criteria for some of the User stories
+* Completed the basic Sign-in/Sign-up/Sign-out process
+* Integrated the Sign-in/Sign-up/Sign-out pages and connected with the Home page
+* Implemented the JWT system to the Sign-in/Sign-up/Sign-out process
+* Looked at the basics of JEST test methods to test the application
+* Updated the acceptance criteria for some of the User stories
 
 ### Sprint 4: Learnings
-1.Started implementing another User story that is to make the Product display page for the customers
-2.Applied styling to the Sign-in/Sign-up/Sign-out pages
-3.Fixed some of the bugs which are present in the Sign-in/Sign-up/Sign-out pages
-4.Fixed bugs in the products display page for the customer
-5.Integrated the products display page and Sign-in/Sign-up/Sign-out pages with the Home page
+* Started implementing another User story that is to make the Product display page for the customers
+* Applied styling to the Sign-in/Sign-up/Sign-out pages
+* Fixed some of the bugs which are present in the Sign-in/Sign-up/Sign-out pages
+* Fixed bugs in the products display page for the customer
+* Integrated the products display page and Sign-in/Sign-up/Sign-out pages with the Home page
