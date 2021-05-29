@@ -19,9 +19,34 @@ Tesing Tools: JEST
 Code Versioning Systems : Git and GitHub
 
 ### Sprint 1: Learnings
-In first sprint we have learned about the SCRUM methodology and various attibutes and aspects in SCRUM. Later, we decided on what technologies we had to use to implement this Web application. Moreover, we have decided to work on MERN technolgies. Further, we worked on basics of these MERN technologies. In addition to that, we have learnt how to create user stories along with creation of branches in the GitHub Website. Also, we have worked on the MERN and created a simple Signin page which takes the details from the user and stores it in the database..
+1.Learned about the SCRUM methodology
+2.Learned various attributes and aspects of SCRUM
+3.Decided on what technologies are needed to develop the Web Application
+4.Finalised MERN technologies
+5.Worked on the basics of MERN technologies
+6.Learned how to create the User stories and branches in GitHub
+7.Also learned how to write Acceptance criteria for a user Story
+8.Developed a basic Signin/Signup page using MERN
 
 ### Sprint 2: Learnings
-In the second sprint we started working on a User story to implement the “SignIn/SignUp/SignOut” page for farmer and customer. We have created the fronted i.e. UI using the React JS. later used Express, Node to create a backend and we were using MongoDB as a database to store the data from the user. The user should give his First Name, Last Name, Email Address, Password to signup to the web application in order to see his profile. We tried to implement the Google Authentication also but we have faced issues related to the database, so we worked on the traditional way of signing up process. Later, we have created the Signin page where the user can give his details like Email Address and Password to get access to his account. Morever, after signing in he can also sign out from the website using the sign out option
+1.Started implementing the User story 1 which is to create a Sign-in/Sign Out page for farmer and customer
+2.Created the User Interface using React JS
+3.Created a database in MongoDB and connected UI and Database using Express and Node
+4.For Sign up process the user must specify his/her First name, Last name, E-mail Address, Password to login to the Web application
+5.Tried to implement the Google Authentication for Sign-in/Sign-up but faced many errors and issues while connecting it to the database
+6.So, implemented tradtional sign-in method
+7.After Sign-in we implemented the Sign-Out process for the user to sign out of the application
+
 ### Sprint 3: Learnings
-In the third sprint we have completed the basic signin/signup/signout process. Later, we have integrated all the signin and signup pages which were made separately from the beginning. After that, we have implement JWT system to our signin/signup process where a token is generated everytime when a user login’s to the application. Moreover, after the user has signout of the page he will not any access to the previous pages when he clicks on the back button. In addition to that, we have worked on the JEST to test application we have built until now. Additionally, we have updated some of the user stories along with acceptance criteria.  
+1.Completed the basic Sign-in/Sign-up/Sign-out process
+2.Integrated the Sign-in/Sign-up/Sign-out pages and connected with the Home page
+3.Implemented the JWT system to the Sign-in/Sign-up/Sign-out process
+4.Looked at the basics of JEST test methods to test the application
+5.Updated the acceptance criteria for some of the User stories
+
+### Sprint 4: Learnings
+1.Started implementing another User story that is to make the Product display page for the customers
+2.Applied styling to the Sign-in/Sign-up/Sign-out pages
+3.Fixed some of the bugs which are present in the Sign-in/Sign-up/Sign-out pages
+4.Fixed bugs in the products display page for the customer
+5.Integrated the products display page and Sign-in/Sign-up/Sign-out pages with the Home page
