@@ -20,7 +20,9 @@ Code Versioning Systems : Git and GitHub
 
 ### Sprint 1: Learnings
 1.Learned about the SCRUM methodology
+
 2.Learned various attributes and aspects of SCRUM
+
 3.Decided on what technologies are needed to develop the Web Application
 4.Finalised MERN technologies
 5.Worked on the basics of MERN technologies
