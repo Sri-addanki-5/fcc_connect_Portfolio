@@ -19,10 +19,8 @@ Tesing Tools: JEST
 Code Versioning Systems : Git and GitHub
 
 ### Sprint 1: Learnings
-*Learned about the SCRUM methodology
-
-*Learned various attributes and aspects of SCRUM
-
+* Learned about the SCRUM methodology
+* Learned various attributes and aspects of SCRUM
 * Decided on what technologies are needed to develop the Web Application
 * Finalised MERN technologies
 * Worked on the basics of MERN technologies
