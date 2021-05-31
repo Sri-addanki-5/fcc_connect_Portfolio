@@ -45,8 +45,9 @@ Code Versioning Systems : Git and GitHub
 * Updated the acceptance criteria for some of the User stories
 
 ### Sprint 4: Learnings
-* Started implementing another User story that is to make the Product display page for the customers
-* Applied styling to the Sign-in/Sign-up/Sign-out pages
+* Started implementing another User story that is to make the Product display page for the customers  and we diplay the products only manuallay and products sliding page also updated  
+* Applied styling to the Sign-in/Sign-up/Sign-out pages and finally we are developed signin and signup UI developed 
 * Fixed some of the bugs which are present in the Sign-in/Sign-up/Sign-out pages
-* Fixed bugs in the products display page for the customer
+* Fixed bugs in the products display page for the customer and sometimes we were facing small rendering issue while dispaly the products 
+* We are developed Side bar and we are add few styles and colors in home page and products page in side bar and we are implemented hover option in side bar
 * Integrated the products display page and Sign-in/Sign-up/Sign-out pages with the Home page
