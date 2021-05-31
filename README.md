@@ -19,27 +19,27 @@ Tesing Tools: JEST
 Code Versioning Systems : Git and GitHub
 
 ### Sprint 1: Learnings
-* Learned about the SCRUM methodology
-* Learned various attributes and aspects of SCRUM
+* Learned about the SCRUM methodologys and Agile methodologys
+* Learned various attributes and aspects of SCRUM and Agile
 * Decided on what technologies are needed to develop the Web Application
-* Finalised MERN technologies
-* Worked on the basics of MERN technologies
+* Finalised MERN technologies and methods
+* Worked on the basics of MERN technologies and learning few concepts in youtube related MERN
 * Learned how to create the User stories and branches in GitHub
-* Also learned how to write Acceptance criteria for a user Story
-* Developed a basic Signin/Signup page using MERN
+* I also learned how to write Acceptance criteria for a user Story in cutomer former connect
+* Developed a basic Signin/Signup page using MERN and I refer to gone few videos in youtube and I learned and developed Signin page
 
 ### Sprint 2: Learnings
-* Started implementing the User story 1 which is to create a Sign-in/Sign Out page for farmer and customer
-* Created the User Interface using React JS
-* Created a database in MongoDB and connected UI and Database using Express and Node
-* For Sign up process the user must specify his/her First name, Last name, E-mail Address, Password to login to the Web application
+* I started implementing the User story 1 which is to create a Sign-in/Sign Out page for farmer and customer basic model we develop
+* Created the User Interface using React JS 
+* Created a database in MongoDB and connected UI and Database using Express and Node and also I created account in MongoDB and learned few database related        concepts 
+* For Sign up process the user must specify his/her First name, Last name, E-mail Address, Password and confirm password to login to the Web application
 * Tried to implement the Google Authentication for Sign-in/Sign-up but faced many errors and issues while connecting it to the database
-* So, implemented tradtional sign-in method
-* After Sign-in we implemented the Sign-Out process for the user to sign out of the application
+* So, implemented tradtional sign-in method after we decided traditional signin method we were facing customer type rendering problem while implementing the signin page
+* After Sign-in we implemented the Sign-Out process for the user to sign out of the application after that we are facing signout issue, when before signout first we need to refresh the page and signout that page is shown to signin home page 
 
 ### Sprint 3: Learnings
-* Completed the basic Sign-in/Sign-up/Sign-out process
-* Integrated the Sign-in/Sign-up/Sign-out pages and connected with the Home page
+* Completed the basic Sign-in/Sign-up/Sign-out process but we are facing type issue in rendering to former and customer page 
+* Integrated the Sign-in/Sign-up/Sign-out pages and connected with the Home page while farmer register the page it is gone to respective former page and display    the products page and while customer signin this page is gone to diplay the only home pageon products
 * Implemented the JWT system to the Sign-in/Sign-up/Sign-out process
 * Looked at the basics of JEST test methods to test the application
 * Updated the acceptance criteria for some of the User stories
