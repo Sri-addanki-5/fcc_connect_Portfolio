@@ -51,3 +51,11 @@ Code Versioning Systems : Git and GitHub
 * Fixed bugs in the products display page for the customer and sometimes we were facing small rendering issue while dispaly the products 
 * We are developed Side bar and we are add few styles and colors in home page and products page in side bar and we are implemented hover option in side bar
 * Integrated the products display page and Sign-in/Sign-up/Sign-out pages with the Home page
+### Sprint 5: Learnings
+* Started testing the application using JEST
+* Wrote test cases for the Signin and Sign Up page which are used by Farmer and Customer
+* Wrote around 11 test cases for both Signin and Sign up process
+* Made some changes in the User Inteface
+* Pushed the files that were created until now into the github
+* pull request was placed to review the files and the code
+* Decided & started integrating the code with the other team
