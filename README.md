@@ -71,6 +71,7 @@ Code Versioning Systems : Git and GitHub
 * After that, there was solved and the error related the sign out
 * Then revised all the User stories completed untill now
 * Decided to proceed for implementing new User stories stories like Add to cart etc
+
 ### Sprint 7: Learnings
 * Started integrating the add profile and add to cart
 * We are working on modifying the UI
