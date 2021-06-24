@@ -81,4 +81,13 @@ Code Versioning Systems : Git and GitHub
 * We are working the modifying the card sizes and design
 * After that, there was solved errors in add to cart
 * We are developing on dropdown feature in navbar
+
+### Sprint 8: Learnings
+* I worked on UI
+* I have worked on card UI and card changes
+* We have few changes in profile page updates and edit page
+* We have integrate on orders page
+* We have integrate on accept and reject the orders
+
+
  
