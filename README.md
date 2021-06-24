@@ -88,6 +88,8 @@ Code Versioning Systems : Git and GitHub
 * We have few changes in profile page updates and edit page
 * We have integrate on orders page
 * We have integrate on accept and reject the orders
-
+* Identified and resolve minor bugs like spelling mistakes and alignments
+* Prepared a presentation for the application demo
+* Prepared for the Demo of the application
 
  
